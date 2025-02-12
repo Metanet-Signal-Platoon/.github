@@ -16,7 +16,7 @@
 
 본 프로젝트를 통해 ㅇㅇ은행은 보다 안정적이고 확장 가능한 금융 서비스를 제공할 수 있으며, 급변하는 금융 환경에 신속하게 대응할 수 있는 기반을 마련하였습니다. <br>
 
-![image](https://github.com/user-attachments/assets/da4600a1-b62f-4b9c-82d1-2879d237bba8)
+<img width="1020" alt="Image" src="https://github.com/user-attachments/assets/e1e03de8-2111-42ae-a697-f7e02ce136b5" />
 
 ## Architecture(기존 Monolithic)
 ![image](https://github.com/user-attachments/assets/0c73905a-57b8-48bd-a394-d501642ed4fe)
