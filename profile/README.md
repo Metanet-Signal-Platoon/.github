@@ -1,6 +1,6 @@
 # 2024년 메타넷 클라우드 인프라 엔지니어 양성과정 최종 프로젝트
 
-## Monolithic service를 Migration하여 AKS 기반 MSA로 설계·구축​
+## 주제: Monolithic service를 Migration하여 AKS 기반 MSA로 설계·구축​
 ## Meta 은행
 ## 프로젝트 개요
 최근 급리 하락으로 인해 대출 및 부동산 거래 수요가 증가하면서, 관련 금융 서비스에 대한 이용자 요구가 확대되고 있습니다. <br>
