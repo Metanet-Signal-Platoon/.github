@@ -19,19 +19,19 @@
 <img width="1020" alt="Image" src="https://github.com/user-attachments/assets/e1e03de8-2111-42ae-a697-f7e02ce136b5" />
 
 ## Architecture(기존 Monolithic)
-![image](https://github.com/user-attachments/assets/0c73905a-57b8-48bd-a394-d501642ed4fe)
+<img width="1020" alt="Image" src="https://github.com/user-attachments/assets/e1e03de8-2111-42ae-a697-f7e02ce136b5" />
 
 ## Architecture(MSA 컨설팅 설계)
-![image](https://github.com/user-attachments/assets/0c73905a-57b8-48bd-a394-d501642ed4fe)
+<img width="682" alt="Image" src="https://github.com/user-attachments/assets/04f43185-c985-445d-a11c-e3abd2b9a053" />
 
 ## Architecture(GitOps 기반 CI/CD 및 DR 구축​)
-![image](https://github.com/user-attachments/assets/0c73905a-57b8-48bd-a394-d501642ed4fe)
+<img width="1017" alt="Image" src="https://github.com/user-attachments/assets/ae57c2a0-e6c4-4a98-8d12-8f48c54f5247" />
 
 ## Architecture(온프레미스 DR 전략​)
-![image](https://github.com/user-attachments/assets/0c73905a-57b8-48bd-a394-d501642ed4fe)
+<img width="1020" alt="Image" src="https://github.com/user-attachments/assets/285e1791-2620-44f3-b8fb-3646f4bbc92a" />
 
 ## Architecture(온프레미스 K8S 다중 클러스터 구축​​)
-![image](https://github.com/user-attachments/assets/0c73905a-57b8-48bd-a394-d501642ed4fe)
+<img width="1018" alt="Image" src="https://github.com/user-attachments/assets/98de82d2-1484-4d79-aabf-4c5bdd2468a4" />
 
 <br />
 
