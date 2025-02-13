@@ -22,7 +22,7 @@
 <img width="1020" alt="Image" src="https://github.com/user-attachments/assets/e1e03de8-2111-42ae-a697-f7e02ce136b5" />
 
 ## Architecture(MSA 컨설팅 설계)
-<img width="682" alt="Image" src="https://github.com/user-attachments/assets/04f43185-c985-445d-a11c-e3abd2b9a053" />
+![image](https://github.com/user-attachments/assets/2504705b-2720-4232-9e03-39aa4dd473b1)
 
 ## Architecture(GitOps 기반 CI/CD 및 DR 구축​)
 <img width="1017" alt="Image" src="https://github.com/user-attachments/assets/ae57c2a0-e6c4-4a98-8d12-8f48c54f5247" />
